@@ -680,6 +680,7 @@ section {
 	width: 528px;
 	height: 581px;
 	background-color: var(--hero-text-color);
+	border-radius: 4px;
 
 }
 .is-hidden {
